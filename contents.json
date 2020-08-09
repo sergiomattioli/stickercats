@@ -2,7 +2,7 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.cats",
   "ios_app_store_link": "",
   "sticker_packs": [
-        {
+    {
       "identifier": "crazycats1",
       "name": "Crazy Cats 1",
       "publisher": "Astro Mobile",
@@ -11,6 +11,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -276,6 +277,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -384,6 +386,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -516,6 +519,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -588,6 +592,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -688,6 +693,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -820,6 +826,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -880,6 +887,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1012,6 +1020,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1104,6 +1113,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1236,6 +1246,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1336,6 +1347,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1432,6 +1444,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1504,6 +1517,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1596,6 +1610,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1668,6 +1683,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1724,6 +1740,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1840,6 +1857,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "1.webp",
@@ -1924,6 +1942,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
@@ -1996,6 +2015,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
@@ -2068,6 +2088,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
@@ -2140,6 +2161,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
@@ -2212,6 +2234,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
@@ -2284,6 +2307,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
@@ -2356,6 +2380,7 @@
       "publisher_email": "astro.mobile.soft@gmail.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "disabled": false,
       "stickers": [
         {
           "image_file": "Image1.webp",
