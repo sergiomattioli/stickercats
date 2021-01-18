@@ -2032,10 +2032,10 @@
       },
       {
          "identifier":"tele111",
-         "name":"Pack 16",
+         "name":"Pack 22",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
-         "image_data_version":"1",
+         "image_data_version":"2",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
