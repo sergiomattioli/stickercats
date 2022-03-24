@@ -13,8 +13,8 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
-         "isAnimated":true,
-         "disabled":true,
+         "isAnimated":false,
+         "disabled":false,
          "visible":true,
          "tags":"",
          "stickers":[
@@ -115,8 +115,8 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
-         "isAnimated":true,
-         "disabled":true,
+         "isAnimated":false,
+         "disabled":false,
          "visible":true,
          "tags":"",
          "stickers":[
@@ -223,8 +223,8 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
-         "isAnimated":true,
-         "disabled":true,
+         "isAnimated":false,
+         "disabled":false,
          "visible":true,
          "tags":"",
          "stickers":[
