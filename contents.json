@@ -3,7 +3,7 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"toracats1",
+         "identifier":"toracat1",
          "name":"Tora Cats (1)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
@@ -115,7 +115,7 @@
          ]
       },
       {
-         "identifier":"toracats2",
+         "identifier":"toracat2",
          "name":"Tora Cats (2)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
